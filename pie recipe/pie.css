@@ -1,0 +1,89 @@
+body h1{
+    color: #a4a400;
+    text-align: center;
+    text-decoration: underline;
+    background: #EFEEEE;
+    font-size: 22pt;
+    font-family:Lucida Sans, Helvetica, Arial,  Sans-serif ;
+}
+
+body h2{
+    color: black;
+    text-align:left;
+    font-size:12pt;
+    font-weight: normal;
+} 
+
+body h3{
+    color: #a4a400;
+    text-align:left;
+    text-decoration: underline;
+    background: #EFEEEE;
+    font-size: 18pt;
+    font-family:Lucida Sans, Helvetica, Arial,  Sans-serif ;  
+}
+
+body h4{
+    
+    color: black;
+    font-weight:normal;
+    font-family:sans-serif;
+    font-size: 12;
+    
+}
+
+body h5{
+    color: #a4a400;
+    text-align: left;
+    text-decoration: underline;
+    background:#EFEEEE;
+    font-size: 22pt;
+    font-family:Lucida Sans, Helvetica, Arial,  Sans-serif ;
+}
+
+body h6{
+    
+    font-weight: normal;
+    font-size: 12pt;
+    font-family: sans-serif:
+    
+}
+
+body h7{
+    color: #a4a400;
+    text-align: left;
+    text-decoration: underline;
+    background: #EFEEEE;
+    font-size: 22pt;
+    font-family:Lucida Sans, Helvetica, Arial,  Sans-serif ;
+}
+
+body h8{
+    
+    background:#fdfd96;
+}
+
+body h9{
+    background: #fdfd96;
+}
+
+body h10{
+    color: #a4a400;
+    text-align:left;
+    text-decoration: underline;
+    background: #EFEEEE;
+    font-size: 22pt;
+    font-family:Lucida Sans, Helvetica, Arial,  Sans-serif ;
+}
+
+body h11{
+    color:#a4a400;
+    text-decoration: underline;
+}
+
+body h12 {
+    color:black;
+    font-family:monospace;    
+    justify-content: right;
+    
+}
